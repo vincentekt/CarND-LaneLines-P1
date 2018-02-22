@@ -19,7 +19,8 @@ My pipeline consisted of 5 steps.
 5. Hough transform
 ![image](resources/hough_transform.png)
 ![image](resources/output.png)
- 
+6. Regression of lines
+![image](resources/regressed_lines.png)
 
 ### 2. Identify potential shortcomings with your current pipeline
 
