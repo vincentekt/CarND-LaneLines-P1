@@ -6,7 +6,7 @@
 
 ### 1. Pipeline.
 
-My pipeline consisted of 5 steps.
+My pipeline consisted of 6 steps.
 
 1. Grayscale
 ![image](resources/gray_scale.png)
