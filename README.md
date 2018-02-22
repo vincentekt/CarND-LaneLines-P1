@@ -1,5 +1,5 @@
 # **Finding Lane Lines on the Road** 
-![image](resources/output.png)
+![image](resources/regressed_lines.png)
 ---
 
 ### Reflection
